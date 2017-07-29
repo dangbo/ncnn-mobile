@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 9
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.tencent.squeezencnn"
+
+        ndk {
+            moduleName "ncnn"
+            abiFilters 'armeabi-v7a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets.main {
+        jniLibs.srcDirs = ["src/main/libs"]
+        jni.srcDirs=[]
+    }
+}

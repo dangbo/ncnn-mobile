@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Jul 28 20:45:30 CST 2017
+2.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main
+5.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+6.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/assets/debug/squeezenet_v1.1.param.bin
+2.set=NATIVE_RESOURCE
+4.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/assets/debug
+7.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/assets/debug/synset_words.txt
+5.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/res/resources-debug.ap_
+4.set=ASSET
+6.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/assets/debug
+1.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libsqueezencnn.so
+6.set=ASSET
+0.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/assets/debug
+3.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+3.set=DEX
+1.base=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/dang/Desktop/squeezencnn-AS/app/build/intermediates/assets/debug/squeezenet_v1.1.bin
+0.set=ASSET
