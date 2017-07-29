@@ -1,5 +1,10 @@
 # ncnn-mobile
-深度学习框架 [ncnn](https://github.com/Tencent/ncnn) 在 Android 和 iOS 的实现  
+use [ncnn](https://github.com/Tencent/ncnn) in Android and iOS 
 
 
 <img src="squeezencnn-AS/screenshot.png" width = "40%"/><img src="squeenzecnn-iOS/screenshot.png" width = "40%"/>
+
+Reference  
+http://blog.csdn.net/best_coder/article/details/76201275  
+https://github.com/Tencent/ncnn/issues/24
+
