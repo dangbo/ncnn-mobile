@@ -13,7 +13,7 @@
 #include <algorithm>
 #include <functional>
 #include <vector>
-#include "net.h"
+#include <ncnn/net.h>
 
 @interface ViewController ()
 @property (strong, nonatomic) IBOutlet UILabel *resultLabel;
