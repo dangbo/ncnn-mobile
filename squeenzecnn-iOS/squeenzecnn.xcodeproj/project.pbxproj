@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		348063AC1F2C1E06009C5ED3 /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 348063AB1F2C1E06009C5ED3 /* test.jpg */; };
+		104432AF2146531000284BCF /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 104432AE2146531000284BCF /* test.jpg */; };
 		348063AF1F2C1E2E009C5ED3 /* ncnn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 348063AD1F2C1E27009C5ED3 /* ncnn.framework */; };
 		348063B01F2C1E2F009C5ED3 /* openmp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 348063AE1F2C1E27009C5ED3 /* openmp.framework */; };
 		348063B11F2C1F3A009C5ED3 /* squeezenet_v1.1.bin in Resources */ = {isa = PBXBuildFile; fileRef = 348063A91F2C1DF4009C5ED3 /* squeezenet_v1.1.bin */; };
@@ -22,10 +22,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		104432AE2146531000284BCF /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpg; sourceTree = "<group>"; };
 		348063A71F2C1DF4009C5ED3 /* squeezenet_v1.1.param */ = {isa = PBXFileReference; lastKnownFileType = text; path = squeezenet_v1.1.param; sourceTree = "<group>"; };
 		348063A91F2C1DF4009C5ED3 /* squeezenet_v1.1.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = squeezenet_v1.1.bin; sourceTree = "<group>"; };
 		348063AA1F2C1DF4009C5ED3 /* synset_words.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = synset_words.txt; sourceTree = "<group>"; };
-		348063AB1F2C1E06009C5ED3 /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = test.jpg; path = ../../../../test.jpg; sourceTree = "<group>"; };
 		348063AD1F2C1E27009C5ED3 /* ncnn.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ncnn.framework; sourceTree = "<group>"; };
 		348063AE1F2C1E27009C5ED3 /* openmp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = openmp.framework; sourceTree = "<group>"; };
 		34C0AB6F1F2AE25400C6D9A3 /* squeenzecnn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = squeenzecnn.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,7 +90,7 @@
 		34C0AB881F2AE29200C6D9A3 /* res */ = {
 			isa = PBXGroup;
 			children = (
-				348063AB1F2C1E06009C5ED3 /* test.jpg */,
+				104432AE2146531000284BCF /* test.jpg */,
 				348063A91F2C1DF4009C5ED3 /* squeezenet_v1.1.bin */,
 				348063A71F2C1DF4009C5ED3 /* squeezenet_v1.1.param */,
 				348063AA1F2C1DF4009C5ED3 /* synset_words.txt */,
@@ -170,7 +170,7 @@
 				34C0AB7F1F2AE25400C6D9A3 /* LaunchScreen.storyboard in Resources */,
 				34C0AB7C1F2AE25400C6D9A3 /* Assets.xcassets in Resources */,
 				34C0AB7A1F2AE25400C6D9A3 /* Main.storyboard in Resources */,
-				348063AC1F2C1E06009C5ED3 /* test.jpg in Resources */,
+				104432AF2146531000284BCF /* test.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
